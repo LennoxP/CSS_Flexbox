@@ -1,7 +1,3 @@
-9. Conclusão e Melhores Práticas# 1\. Introdução ao CSS Flexbox
-
-## Índice: CSS Flexbox para Alunos do Ensino Médio Técnico em Informática
-
 ## 1.1 O que é Flexbox?
 
 Flexbox foi criado para tornar as tarefas de posicionamento algo mais fácil e compatível com os browsers, especialmente no que se diz respeito à responsividade.
